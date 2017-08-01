@@ -1,7 +1,11 @@
 # WildThing-Arduino-Code
 Code for adapted wild thing
 
-Arduino uno reading sparkfun joysyick to control two REV spark motor controllers
-Also see bmp of arduino wildthing printed circut board artwork 
+Arduino uno shield for reading a sparkfun joysyick to control two REV spark motor controllers
+Pins are for speed selection
+
+Also see bmps of arduino wildthing printed circut board artwork 
+Also included is a DXF file to inport into your CAD
+
 
 Code is never finished, just given up on... not sure who said this but it's so true
