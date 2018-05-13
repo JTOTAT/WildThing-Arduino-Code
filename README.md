@@ -10,4 +10,5 @@ Also included is a DXF file to inport into your CAD
 
 Code is never finished, just given up on... not sure who said this but it's so true
 
-See jtandhz channel on youtube for DIY video on this project (soon)
+See jtandhz channel on youtube for DIY video on this project 
+
